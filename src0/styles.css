@@ -1,8 +1,22 @@
 h1 {
     color: blue;
+    font: georgia;
     text-align: center;
+    size: 50px;
 }
 
 p {
-    color: red;
+    color: black;
+    size: 30px;
+    align-items: center;
+    text-align: center;
+}
+
+th{
+	border: 1px solid black;
+    padding: 2px;
+    text-align: left;
+   }
+table{
+	align-items: center;
 }
